@@ -42,7 +42,7 @@ With the increasing use of online transactions, credit card fraud has become a m
 
 Watch the complete project demonstration here:
 
-[🎥 Click Here to Watch the Project Video]([PASTE_YOUR_YOUTUBE_LINK_HERE](https://youtu.be/CsRBfmRah1c?si=BB16wz2eV5tOXA7Y))
+[🎥 Click Here to Watch the Project Video](https://youtu.be/CsRBfmRah1c?si=BB16wz2eV5tOXA7Y)
 
 ## 🚀 Future Improvements
 
